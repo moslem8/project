@@ -1,3 +1,4 @@
 node_module/
 *.tx
 !except.tx
+newdir/
